@@ -1,0 +1,3 @@
+﻿  WarstlerC_CSCE2004_Project4.cpp
+C:\Users\clayw\source\repos\WarstlerC_CSCE2004_Project4\WarstlerC_CSCE2004_Project4.cpp(496,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  WarstlerC_CSCE2004_Project4.vcxproj -> C:\Users\clayw\source\repos\WarstlerC_CSCE2004_Project4\Debug\WarstlerC_CSCE2004_Project4.exe
